@@ -1,0 +1,1 @@
+from .openai_imagenet_template import openai_imagenet_template
