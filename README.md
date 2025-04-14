@@ -1,3 +1,7 @@
+## Update 14 Apr. 2025
+
+The official checkpoint from WiSE-FT is not available, please find them in our [Google Drive](https://drive.google.com/drive/folders/12yk3HXTJPtjF9UiQvg5DjeRRUOLvqKaB?usp=sharing)
+
 # Robust Fine-tuning of Zero-shot Models via Variance Reduction
 
 This repository contains code for the Variance Reduction Fine-tuning (VRF).
